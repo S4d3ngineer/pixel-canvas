@@ -1,4 +1,4 @@
-[Link to app](https://pixel-canvas-virid.vercel.app/)
+[Link to the app](https://pixel-canvas-virid.vercel.app/)
 
 My first React app, which I am using as training ground.
 
