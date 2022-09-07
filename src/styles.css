@@ -27,10 +27,6 @@ body {
     font-size: 3rem;
 }
 
-#clear {
-    width: 100px;
-}
-
 .canvas {    
     display: flex;
     flex-wrap: wrap;
@@ -42,4 +38,12 @@ body {
     display: inline-block;
     width: 16px;
     height: 16px;
+}
+
+#clear {
+    width: 100px;
+}
+
+#save-img {
+    margin-top: 2rem;
 }

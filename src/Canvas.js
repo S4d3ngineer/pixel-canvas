@@ -14,10 +14,8 @@ export default function Canvas(props) {
 				row.push(
 					<Pixel
 						 key={i + '.' + j}
-						 row={i}
-						 column={j}
 						 color={pixels[i][j]}
-						 onMouseEvent={props.onMouseEvent}
+						 onMouseEvent={props.onMouseEvent(i, j)}
 					/>
 				);
 			}
