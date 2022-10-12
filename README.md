@@ -1,3 +1,7 @@
+**App will be developed in different [repo](https://github.com/S4d3ngineer/pixel-canvas-ts), because I am going to rewrite it in TypeScript before developing it further.**
+
+<hr>
+
 [Link to the app](https://pixel-canvas-virid.vercel.app/)
 
 My first React app, which I am using as training ground.
