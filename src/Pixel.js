@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Pixel(props){
+export default function Pixel(props) {
   const color = props.color;
 
   return (
@@ -17,5 +17,5 @@ export default function Pixel(props){
       onDrop={(e) => e.preventDefault()}
     >
     </div>
-    );
+  );
 }
